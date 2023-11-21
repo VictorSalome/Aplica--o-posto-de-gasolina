@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "vite-project",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - vite-project",
+			"detail": "tsc && vite build"
+		}
+	]
+}
